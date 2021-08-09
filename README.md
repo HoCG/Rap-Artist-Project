@@ -19,8 +19,10 @@
 
 # 3. 메뉴3
 
-메뉴3의 경우는 아래와 같은 메뉴들을 보여주며 2번을 누를시에
+메뉴3의 경우는 아래와 같은 메뉴들을 보여주며 2번을 누를시에 사전에 힙합 커뮤니티에서 설문조사를 통해 얻은 데이터를 통해서 유저들의 투표 결과를 확인해볼 수 있습니다.
 ![6](https://user-images.githubusercontent.com/52379503/128657431-14eed958-1983-433d-a8e8-f0f731bbe38d.png)
+
+그리고 1번을 누르게 되면 유저들이 어떤 아티스트에게 투표를 했는지에 대한 정보를 확인해볼 수 있습니다.
 ![5](https://user-images.githubusercontent.com/52379503/128657426-7fa4e921-f4c2-4c32-8d29-d06fb46253d7.png)
 ![7](https://user-images.githubusercontent.com/52379503/128657433-4ddf7fae-0a08-43d9-83aa-b0086d396dd1.png)
 
